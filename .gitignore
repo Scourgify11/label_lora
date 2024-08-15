@@ -1,0 +1,11 @@
+llama3_lora/
+llama3_lora080802/
+*.log
+LLM-Reserch/
+output/
+temp/
+.ipynb_checkpoints/
+.autodl/
+.Trash-0/
+*.xlsx
+*.csv
